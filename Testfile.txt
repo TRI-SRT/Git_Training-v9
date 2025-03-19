@@ -1,3 +1,6 @@
+GIT REVERT COMMIT 2
+
+
 "This is test file for sample download"
 
 And this is another commit from my Local Machine to Remote Repo
