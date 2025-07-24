@@ -1,1 +1,5 @@
 "This is Test File for Practicing GITHUB and GIT"
+
+Now am going to push the file from GIT to GIT HUB
+
+
